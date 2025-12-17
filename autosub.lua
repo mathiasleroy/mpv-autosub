@@ -37,6 +37,7 @@ local logins = {
 --          { '--addic7ed', 'USERNAME', 'PASSWORD' },
 --          { '--legendastv', 'USERNAME', 'PASSWORD' },
 --          { '--opensubtitles', 'USERNAME', 'PASSWORD' },
+--          { '--opensubtitlescom', 'USERNAME', 'PASSWORD' },
 --          { '--subscenter', 'USERNAME', 'PASSWORD' },
 }
 --=============================================================================
